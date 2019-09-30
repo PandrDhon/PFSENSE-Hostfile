@@ -1,0 +1,37 @@
+############################################################
+#        CUSTOM ADS BLACKLIST FOR PFSENSENG                #
+#**********************************************************#
+# -------------- Updated: 30-09-2019 --------------------- #
+#**********************************************************#
+#                                                          #
+# Disclaimer: this file is free to use for personal use    #
+# only. Furthermore it is NOT permitted to copy any of the #
+# contents or host on any other site without permission or #
+# meeting the full criteria of the below license terms.    #
+#                                                          #
+# This work is licensed under the Creative Commons         #
+# Attribution-NonCommercial-ShareAlike License.            #
+# https://creativecommons.org/licenses/by-nc-sa/4.0/       #
+#                                                          #
+############################################################
+
+lazada.com.ph
+0.0.0.0 zalora.com
+shopee.ph
+mangatoon.mobi
+0.0.0.0 youtube.com
+0.0.0.0 youtube.com.ph
+0.0.0.0 youtube.sg
+0.0.0.0 youtube.ca
+0.0.0.0 youtube.af
+0.0.0.0 youtube.id
+0.0.0.0 netflix.com
+0.0.0.0 reddit.com
+0.0.0.0 ph.yahoo.com
+0.0.0.0 yahoo.com
+0.0.0.0 kissmanga.com
+0.0.0.0 asiancrush.com
+0.0.0.0 hulu.com
+0.0.0.0 dramago.com
+0.0.0.0 bluestacks.com
+0.0.0.0 bignox.com
