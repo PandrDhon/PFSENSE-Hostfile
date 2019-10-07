@@ -1,7 +1,7 @@
 ############################################################
 #        CUSTOM ADS BLACKLIST FOR PFSENSENG                #
 #**********************************************************#
-# -------------- Updated: 16-12-2017 --------------------- #
+# -------------- Updated: 10-07-2019 --------------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: this file is free to use for personal use    #
@@ -20,6 +20,8 @@ zalora.com
 zalora.com.ph
 shopee.ph
 mangatoon.mobi
+youtube.com.ph
+0.0.0.0 lazada.com.ph
 0.0.0.0 youtube.com
 0.0.0.0 youtube.com.ph
 0.0.0.0 youtube.sg
