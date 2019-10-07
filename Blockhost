@@ -16,6 +16,7 @@
 ############################################################
 
 lazada.com.ph
+lazada.com
 zalora.com
 zalora.com.ph
 shopee.ph
@@ -24,6 +25,7 @@ youtube
 youtube.com
 youtube.com.ph
 0.0.0.0 lazada.com.ph
+0.0.0.0 lazada.com
 0.0.0.0 youtube.com
 0.0.0.0 youtube.com.ph
 0.0.0.0 youtube.sg
