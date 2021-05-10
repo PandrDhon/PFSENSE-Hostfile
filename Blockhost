@@ -15,10 +15,6 @@
 #                                                          #
 ############################################################
 www.youtube.com
-myaccount.google.com
-www.accounts.google.com
-0.0.0.0 accounts.google.com
-accounts.google.com
 www.jango.com
 www.myfreemp3music.com
 0.0.0.0 jango.com
@@ -84,4 +80,3 @@ freeallmusic.net
 0.0.0.0 mp3juices.to
 0.0.0.0 freeallmusic.top
 0.0.0.0 9gag.com
-0.0.0.0 myaccount.google.com
